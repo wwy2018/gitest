@@ -12,3 +12,5 @@ let l=15
 
 let na=1
 let nb=2
+
+let d1=1
