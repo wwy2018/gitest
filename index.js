@@ -7,3 +7,5 @@ let g=10
 let h=11
 let i = 12
 let j=13
+let k=14
+let l=15
