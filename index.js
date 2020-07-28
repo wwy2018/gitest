@@ -9,3 +9,5 @@ let i = 12
 let j=13
 let k=14
 let l=15
+
+let na=1
