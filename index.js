@@ -15,3 +15,4 @@ let nb=2
 
 let d1=1
 let d2=2
+let d3=3
