@@ -1,5 +1,5 @@
-let a = 2
-let b = 3
+let a1 = 2
+let b1 = 3
 let c = 4
 let d = 6
 let f=9
@@ -9,3 +9,10 @@ let i = 12
 let j=13
 let k=14
 let l=15
+
+let na=1
+let nb=2
+
+let d1=1
+let d2=2
+let d3=3
