@@ -18,3 +18,4 @@ let d2=2
 let d3=3
 
 let i=0
+let y=9
