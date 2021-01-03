@@ -19,3 +19,4 @@ let d3=3
 
 let i=0
 let y=9
+let u=0
